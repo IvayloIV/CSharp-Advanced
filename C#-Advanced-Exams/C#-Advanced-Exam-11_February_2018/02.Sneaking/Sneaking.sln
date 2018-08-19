@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sneaking", "Sneaking.csproj", "{5870F16B-76AB-4C41-A23D-A42EEE356B93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5870F16B-76AB-4C41-A23D-A42EEE356B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5870F16B-76AB-4C41-A23D-A42EEE356B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5870F16B-76AB-4C41-A23D-A42EEE356B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5870F16B-76AB-4C41-A23D-A42EEE356B93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

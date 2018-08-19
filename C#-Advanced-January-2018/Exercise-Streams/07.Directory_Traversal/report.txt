@@ -1,0 +1,7 @@
+.cs
+--../../../Program.cs - 1.978kb
+.csproj
+--../../../07.Directory_Traversal.csproj - 0.174kb
+.txt
+--../../../someInfo.txt - 0.007kb
+--../../../oderinfo.txt - 0.009kb
